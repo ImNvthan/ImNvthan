@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Nathan Drancourt
 
-<!--
-**ImNvthan/ImNvthan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Administrateur Systèmes & Réseaux (en formation)
 
-Here are some ideas to get you started:
+## 💻 Compétences
+- Windows Server
+- Active Directory
+- GLPI
+- Réseaux (TCP/IP, VLAN)
+- Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Objectif
+Devenir administrateur systèmes & réseaux et évoluer vers la cybersécurité.
+
+## 📂 Projets clés
+- 🔔 GLPI Notification Customization
+- 🖥️​ WebSync - Site statique auto-déployé depuis GitHub
+- 🐳 Site Web docker
+- 👨‍💻 Mon portfolio
+- 🌐 (autre projet)
