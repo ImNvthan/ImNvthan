@@ -8,9 +8,14 @@
 - GLPI
 - Réseaux (TCP/IP, VLAN)
 - Linux
+- Microsoft 365
+- Support N1 / N2
+- Documentation technique
+- Power Automate
+
 
 ## 🚀 Objectif
-Devenir administrateur systèmes & réseaux et évoluer vers la cybersécurité.
+Devenir administrateur systèmes & réseaux.
 
 ## 📂 Projets clés
 - 🔔 GLPI Notification Customization
