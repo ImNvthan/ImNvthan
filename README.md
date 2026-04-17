@@ -13,10 +13,6 @@
 - Documentation technique
 - Power Automate
 
-
-## 🚀 Objectif
-Devenir administrateur systèmes & réseaux.
-
 ## 📂 Projets clés
 - 🔔 GLPI Notification Customization
 - 🖥️​ WebSync - Site statique auto-déployé depuis GitHub
