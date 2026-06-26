@@ -1,6 +1,6 @@
 # 👋 Nathan Drancourt
 
-🎯 Administrateur Systèmes & Réseaux (en formation)
+🎯 Administrateur Systèmes & Réseaux Junior (en formation)
 
 ## 💻 Compétences
 - Windows Server
