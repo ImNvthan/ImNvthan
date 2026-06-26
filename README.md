@@ -14,7 +14,9 @@
 - Power Automate
 
 ## 📂 Projets clés
-- 🔔 GLPI Notification Customization
+- 🖥️ Script bash pour installer et configurer un serveur LAMP
+- 🖥️ Script bash de supervision GLPI
+- 🔔 GLPI Notification Custom
 - 🖥️​ WebSync - Site statique auto-déployé depuis GitHub
 - 🐳 Site Web docker
 - 👨‍💻 Mon portfolio
