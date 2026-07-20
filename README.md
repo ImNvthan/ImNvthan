@@ -14,6 +14,7 @@
 - Power Automate
 
 ## 📂 Projets clés
+- 🖥️ Script PowerShell d'automatisation Active Directory
 - 🖥️ Script bash pour installer et configurer un serveur LAMP
 - 🖥️ Script bash de supervision GLPI
 - 🔔 GLPI Notification Custom
