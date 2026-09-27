@@ -14,6 +14,9 @@ Administrateur Systèmes & Réseaux Junior
 - Support N1 / N2
 - Documentation technique
 - Power Automate
+- PowerShell / Bash
+- Docker, virtualisation (Proxmox)
+- Cybersécurité / OSINT
 
 ## 📂 Projets clés
 - 🖥️ [Script PowerShell d'automatisation Active Directory](https://github.com/ImNvthan/ad-master-toolkit)
