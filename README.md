@@ -2,7 +2,7 @@
 
 Administrateur Systèmes & Réseaux Junior
 
-[Portfolio](https://imnvthan.github.io) · [LinkedIn](https://www.linkedin.com/in/nathan-drancourt/) · Le Mans, France
+[Portfolio](https://imnvthan.github.io) · [LinkedIn](https://www.linkedin.com/in/nathan-drancourt/)
 
 ## 💻 Compétences
 - Windows Server
