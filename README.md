@@ -2,6 +2,8 @@
 
 Administrateur Systèmes & Réseaux Junior
 
+[Portfolio](https://imnvthan.github.io) · [LinkedIn](https://www.linkedin.com/in/nathan-drancourt/) · Le Mans, France
+
 ## 💻 Compétences
 - Windows Server
 - Active Directory
@@ -14,11 +16,11 @@ Administrateur Systèmes & Réseaux Junior
 - Power Automate
 
 ## 📂 Projets clés
-- 🖥️ Script PowerShell d'automatisation Active Directory
-- 🖥️ Script bash pour installer et configurer un serveur LAMP
-- 🖥️ Script bash de supervision GLPI
-- 🔔 GLPI Notification Custom
-- 🖥️​ WebSync - Site statique auto-déployé depuis GitHub
-- 🐳 Site Web docker
-- 👨‍💻 Mon portfolio
-- 🌐 (autre projet)
+- 🖥️ [Script PowerShell d'automatisation Active Directory](https://github.com/ImNvthan/ad-master-toolkit)
+- 🖥️ [Script bash pour installer et configurer un serveur LAMP](https://github.com/ImNvthan/lamp-debian-installer)
+- 🖥️ [Script bash de supervision GLPI](https://github.com/ImNvthan/glpi-teams-healthcheck)
+- 🔔 [GLPI Notification Custom](https://github.com/ImNvthan/glpi-notification-templates)
+- 🖥️ [WebSync - Site statique auto-déployé depuis GitHub](https://github.com/ImNvthan/cron-site-sync)
+- 🐳 [Site Web docker](https://github.com/ImNvthan/Docker-SiteWeb)
+- 🕵️ [Homelab OSINT autopiloté sur Proxmox (LXC)](https://github.com/ImNvthan/proxmox-osint-homelab)
+- 👨‍💻 [Mon portfolio](https://imnvthan.github.io)
